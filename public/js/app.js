@@ -49771,8 +49771,7 @@ window._ = __webpack_require__(/*! lodash */ "./node_modules/lodash/lodash.js");
  */
 
 try {
-  window.Popper = __webpack_require__(/*! popper.js */ "./node_modules/popper.js/dist/esm/popper.js")["default"];
-  window.$ = window.jQuery = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js");
+  window.Popper = __webpack_require__(/*! popper.js */ "./node_modules/popper.js/dist/esm/popper.js")["default"]; // window.$ = window.jQuery = require('jquery');
 
   __webpack_require__(/*! bootstrap */ "./node_modules/bootstrap/dist/js/bootstrap.js");
 } catch (e) {}
@@ -49888,8 +49887,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! c:\Users\castr\Desktop\laravel\laravel6composer\elrebostshop\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! c:\Users\castr\Desktop\laravel\laravel6composer\elrebostshop\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\castr\Desktop\laravel\laravel6composer\elrebostshop\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\castr\Desktop\laravel\laravel6composer\elrebostshop\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

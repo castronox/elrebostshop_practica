@@ -5,6 +5,10 @@
 
 @section('contenido')
 
+@section('estilos')
+<link rel="stylesheet" type="text/css" href="{{ asset('asset/styles/main_styles.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('asset/styles/responsive.css') }}">
+@endsection
 
 <div class="super_container_inner">
 		<div class="super_overlay"></div>
